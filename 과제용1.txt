@@ -3,7 +3,7 @@ void main(void)
 int num1;
 num1 = 10;
 
-int num2;			//  Ok!	
+int num2;			//  No!	
 num2 = 10;
 ......
 }
